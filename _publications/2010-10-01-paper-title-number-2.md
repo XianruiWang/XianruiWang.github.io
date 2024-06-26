@@ -5,7 +5,7 @@ Alternating Optimization"
 collection: publications
 permalink: /publication/2024-05-30-paper-BiAEC-number-2
 excerpt: #''
-date: 2020-12-18
+date: 2024-05-30
 venue: 'IEEE/ACM Trans. on Audio, Speech, and Lang. Process. '
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://XianruiWang.github.io/files/biaec_2024.pdf'
