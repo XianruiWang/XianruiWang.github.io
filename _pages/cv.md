@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,16 +12,26 @@ redirect_from:
 Education
 ======
 * Ph.D in Information and Communication Engineering, Northwestern Polytechnical University, 2019-2025(expected).
-* Visiting Scholar, Waseda University, 2023-2025. 
 * B.S. in control science and technology , Northwestern Polytechnical University, 2015-2014.
 
 Work experience
 ======
+* 2023.03-2025.03: Waseda University
+  * Makino Lab, Visiting Scholar
+  * Duties includes:
+    * Derive efficient source separation and extraction algorithms
+    * Assit supervising master students
+  * Advisor: Prof. Shoji Makino
+
 * 2020.11-2021.06: Huawei Consumer Terminal Business Group
   * Olab
   * Duties includes: 
     * Derive efficient dereverberaton algorthms
     * Derive efficient source separation algorthms
     * Derive  efficient semi-blind source separation based acoustc echo cancellaton algorthms
-  * Supervisor: Chunjian Li
+  * Leader: Chunjian Li
 
+* 2019.2-2019.06: Hepu Voice
+  * Duties includes: 
+    * Derive and implement efficient and accurate source localization algorthms
+  * Leader: Jingdong Chen
