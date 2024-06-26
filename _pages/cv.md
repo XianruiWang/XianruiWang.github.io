@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-  * 2020.11-2021.06: Huawei Consumer Terminal Business Group
+* 2020.11-2021.06: Huawei Consumer Terminal Business Group
   * Olab
-  * Duties includes: 1. Derive efficient source separation algorthms, 2. Derive efficient dereverberaton algorthms, 3. Derive  efficient semi-blind source separation based acoustc echo cancellaton algorthms.
+  * Duties includes: 1. Derive efficient source separation algorthms, 2. Derive efficient dereverberaton algorthms, 3. Derive  efficient semi-blind source separation based acoustc echo cancellaton algorthms
   * Supervisor: Chunjian Li
 
