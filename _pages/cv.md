@@ -20,7 +20,7 @@ Work experience
   * Makino Lab, Visiting Scholar
   * Duties includes:
     * Derive efficient source separation and extraction algorithms
-    * Assit supervising master students
+    *  Assist supervising master students
   * Advisor: Prof. Shoji Makino
 
 * 2020.11-2021.06: Huawei Consumer Terminal Business Group
@@ -31,7 +31,13 @@ Work experience
     * Derive  efficient semi-blind source separation based acoustc echo cancellaton algorthms
   * Leader: Chunjian Li
 
-* 2019.2-2019.06: Hepu Voice
+* 2019.02-2019.06: Hepu Voice
   * Duties includes: 
     * Derive and implement efficient and accurate source localization algorthms
   * Leader: Jingdong Chen
+
+* 2016.06-2018.06: Northwestern Polytechnical University Football Robot Group
+  * Duties includes: 
+    * Hardware design 
+    * Implement control algorithms
+  * Advisor: Haobin Shi
