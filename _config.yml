@@ -26,8 +26,7 @@ author:
   pronouns         : #"Him" # example: "she/her"  
   bio              : "Working on signal processing"
   location         : "Kitakyushu"
-  employer         : "|:Northwestern Polytechnical University|
-                      |:Waseda University|"
+  employer         :  "Northwestern Polytechnical University"
   uri              : # URL
   email            : "wangxianrui97@gmail.com" 
 
