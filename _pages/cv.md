@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Information and Communication Engineering, Northwestern Polytechnical University, 2019-2025(expected).
-* B.S. in control science and technology , Northwestern Polytechnical University, 2015-2014.
+* B.S. in control science and technology , Northwestern Polytechnical University, 2015-2019.
 
 Work experience
 ======
