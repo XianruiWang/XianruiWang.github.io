@@ -3,7 +3,7 @@ title: "Spatially Informed Independent vector analysis for Source Extraction bas
 collection: publications
 permalink: /publication/2023-06-13-paper-CTFIVA-number-3
 excerpt: #''
-date: 2024-06-13
+date: 2023-06-13
 venue: 'IEEE ICASSP '
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://XianruiWang.github.io/files/ctfiva_2023.pdf'

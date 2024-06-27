@@ -3,7 +3,7 @@ title: "On Multiple-Input/Binaural-Output Antiphasic Speaker Signal Extraction"
 collection: publications
 permalink: /publication/2023-06-13-paper-MIBO-number-4
 excerpt: #''
-date: 2024-06-13
+date: 2023-06-13
 venue: 'IEEE ICASSP '
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://XianruiWang.github.io/files/mibo_2023.pdf'
