@@ -1,7 +1,5 @@
 ---
-title: "On Semi-Blind Source Separation-Based Approaches
-to Nonlinear Echo Cancellation Based on Bilinear
-Alternating Optimization"
+title: "On Multiple-Input/Binaural-Output Antiphasic Speaker Signal Extraction"
 collection: publications
 permalink: /publication/2023-06-13-paper-MIBO-number-4
 excerpt: #''

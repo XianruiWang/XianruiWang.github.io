@@ -1,7 +1,5 @@
 ---
-title: "On Semi-Blind Source Separation-Based Approaches
-to Nonlinear Echo Cancellation Based on Bilinear
-Alternating Optimization"
+title: "Spatially Informed Independent vector analysis for Source Extraction based on the convolutive Transfer Function Model"
 collection: publications
 permalink: /publication/2023-06-13-paper-CTFIVA-number-3
 excerpt: #''
