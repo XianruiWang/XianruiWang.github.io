@@ -1,5 +1,5 @@
 ---
-title: "Geometrically Constrained Source Extraction and Dereverberation Based on Joint Optimization"
+title: "LOW ALGORITHMIC DELAY IMPLEMENTATION OF CONVOLUTIONAL BEAMFORMER FOR ONLINE JOINT SOURCE SEPARATION AND DEREVERBERATION"
 collection: publications
 permalink: /publication/2024-08-27-paper-ldcbf_2024-number-13
 excerpt: #''
