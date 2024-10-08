@@ -4,7 +4,7 @@ CANCELLATION, INTERFERENCE SUPPRESSION, AND NOISE REDUCTION"
 collection: publications
 permalink: /publication/2024-09-12-paper-aeciva-number-14
 excerpt: #''
-date: 2024-04-13
+date: 2024-09-12
 venue: 'IWAENC '
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://XianruiWang.github.io/files/SBSS_AECIVA.pdf'
